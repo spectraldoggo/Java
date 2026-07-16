@@ -5,11 +5,9 @@ import java.util.ArrayList;
 /**
  * Implementation of a B-Tree, a self-balancing tree data structure that maintains sorted data
  * and allows searches, sequential access, insertions, and deletions in logarithmic time.
- *
- * B-Trees are generalizations of binary search trees in that a node can have more than two children.
+  * B-Trees are generalizations of binary search trees in that a node can have more than two children.
  * They're widely used in databases and file systems.
- *
- * For more information: https://en.wikipedia.org/wiki/B-tree
+  * For more information: https://en.wikipedia.org/wiki/B-tree
  */
 
 public class BTree {
